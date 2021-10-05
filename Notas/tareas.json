@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "cualquier cadena de texto1",
+        "estado":"terminada"
+    },
+    {
+        "titulo": "cualquier cadena de texto2",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "cualquier cadena de texto3",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "cualquier cadena de texto4",
+        "estado": "terminada"
+    }
+]
